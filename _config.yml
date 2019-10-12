@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://www.baidu.com
+#BASE_PATH : http://www.baidu.com
 BASE_PATH : http://ShangJianhua.github.io
 
 description : 衣带渐宽终不悔，为伊消得人憔悴
@@ -29,6 +29,7 @@ author:
   role: Jekyll Theme
   email: 18120121@bjtu.edu.cn
   github: ShangJianhua
+  weibo: https://weibo.com/u/5494081249/home?leftnav=1
   twitter: goileolee
   facebook: goileolee
   googleplus: +goileolee
