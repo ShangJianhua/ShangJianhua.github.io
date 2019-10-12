@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-#BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
+BASE_PATH : http://www.baidu.com
 BASE_PATH : http://ShangJianhua.github.io
 
 description : 衣带渐宽终不悔，为伊消得人憔悴
