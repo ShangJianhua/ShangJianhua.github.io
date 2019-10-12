@@ -17,20 +17,20 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://goileolee.github.io
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+description : 衣带渐宽终不悔，为伊消得人憔悴
+title : 海马体
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: 海马体
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
+  email: 18120121@bjtu.edu.cn
+  github: ShangJianhua
   twitter: goileolee
   facebook: goileolee
   googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  bio: "Hi, 我是尚健华"
   uno-dbyll: /assets/images/avatar.jpg
