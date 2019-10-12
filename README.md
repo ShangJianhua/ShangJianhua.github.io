@@ -11,4 +11,4 @@ _posts</br>
 assets/images/</br>
 _config.yml</br>
 aboutme.html</br>
-
+其它信息直接使用即可。
